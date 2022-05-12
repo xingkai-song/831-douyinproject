@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simple-demo
 
 ## 抖音项目服务端简单示例
@@ -20,3 +21,7 @@ go build && ./simple-demo
 ### 测试数据
 
 测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
+=======
+# 831-douyinproject
+字节跳动青训营基础1班831号这就是街舞队抖音项目
+>>>>>>> bfacc8ad657840a489cba4c9d523f0d32553121a
